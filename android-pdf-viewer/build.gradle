@@ -4,7 +4,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'android-pdf-viewer'
 
-    publishedGroupId = 'com.github.barteksc'
+    publishedGroupId = 'com.github.YusukeSuzuki1213'
     libraryName = 'AndroidPdfViewer'
     artifact = 'android-pdf-viewer'
 
