@@ -4,16 +4,14 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'android-pdf-viewer'
 
-    publishedGroupId = 'com.github.YusukeSuzuki1213'
+    publishedGroupId = 'com.github.barteksc'
     libraryName = 'AndroidPdfViewer'
     artifact = 'android-pdf-viewer'
 
     libraryDescription = 'Android view for displaying PDFs rendered with PdfiumAndroid'
 
-    //siteUrl = 'https://github.com/barteksc/AndroidPdfViewerV1'
-    //gitUrl = 'https://github.com/barteksc/AndroidPdfViewerV1.git'
-    siteUrl = 'https://github.com/YusukeSuzuki1213/AndroidPdfViewerV1'
-    gitUrl = 'https://github.com/YusukeSuzuki1213/AndroidPdfViewerV1.git'
+    siteUrl = 'https://github.com/barteksc/AndroidPdfViewerV1'
+    gitUrl = 'https://github.com/barteksc/AndroidPdfViewerV1.git'
 
     libraryVersion = '1.6.0'
 
