@@ -10,8 +10,10 @@ ext {
 
     libraryDescription = 'Android view for displaying PDFs rendered with PdfiumAndroid'
 
-    siteUrl = 'https://github.com/barteksc/AndroidPdfViewerV1'
-    gitUrl = 'https://github.com/barteksc/AndroidPdfViewerV1.git'
+    //siteUrl = 'https://github.com/barteksc/AndroidPdfViewerV1'
+    //gitUrl = 'https://github.com/barteksc/AndroidPdfViewerV1.git'
+    siteUrl = 'https://github.com/YusukeSuzuki1213/AndroidPdfViewerV1'
+    gitUrl = 'https://github.com/YusukeSuzuki1213/AndroidPdfViewerV1.git'
 
     libraryVersion = '1.6.0'
 
